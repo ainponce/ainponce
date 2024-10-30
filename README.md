@@ -1,5 +1,4 @@
-👋 Hi! I'm Ain Moises Ponce
-🚀 Software Developer passionate about tackling complex technical challenges through detailed analysis and creative problem-solving. My experience spans both frontend and backend development, along with a solid understanding of agile methodologies, enabling me to build robust, efficient web applications.
+👋 Hi! I'm Ain Moises Ponce 🚀 Software Developer passionate about tackling complex technical challenges through detailed analysis and creative problem-solving. My experience spans both frontend and backend development, along with a solid understanding of agile methodologies, which enabled me to build robust, efficient web applications.
 
 📌 About Me
 
@@ -27,17 +26,15 @@ Retail Template Input Generator - Automates input generation for templates, remo
 
 Auditory Discrimination Game - An interactive game developed in React with animations and audio responses, designed to improve users' auditory discrimination skills.
 
-🌱 Work Experience
+🌱 Working Experience
 
-Shalion | Software Developer
-Implemented web scraping with Node.js to gather product information across multiple platforms.
+Shalion | Software Developer Implemented web scraping with Node.js to gather product information across multiple platforms.
 
-Smartway SRL | Frontend Web Developer
-Developed applications using JavaScript, React, and agile methodologies.
+Smartway SRL | Frontend Web Developer Developed applications using JavaScript, React, and agile methodologies.
 
 🎉 Ready to Collaborate?
 
-If you have an exciting idea or need a developer with technical expertise and a passion for innovation, feel free to reach out. I'm always open to new challenges and collaborations!
+If you have an exciting idea or if you need a developer with technical expertise and a passion for innovation, feel free to reach out. I'm always open to new challenges and collaborations!
 
 Thank you for visiting my profile! ✨
 
