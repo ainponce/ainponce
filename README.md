@@ -29,3 +29,6 @@ Developed applications using JavaScript, React, and agile methodologies.
 If you have an exciting idea or need a developer with technical expertise and a passion for innovation, feel free to reach out. I'm always open to new challenges and collaborations!
 
 Thank you for visiting my profile! ✨
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ainponce/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ainponce/)
