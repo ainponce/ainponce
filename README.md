@@ -11,10 +11,14 @@
 
 💻 Skilled in JavaScript, React, Node.js, Redux, Express.js, MongoDB, among other technologies.
 
-🛠️ Technologies
+🛠️ Technologies and Tools.
+
 Frontend: HTML, CSS, JavaScript, React.js, Redux, Tailwind CSS, Angular, Vite.js, Next.js.
+
 Backend: Node.js, Express, Java, Spring Boot, PHP, C#, .NET, EntityFramework
+
 Databases: MySQL, SQL Server, MongoDB
+
 Other Tools: Git, Storybook, AWS, Jest, Vitest
 
 📂 Highlighted Projects
