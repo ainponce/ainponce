@@ -6,7 +6,7 @@
 
 🌍 Currently working at Shalion implementing global web scraping solutions.
 
-🎓 Studying Web Development at the National University of La Matanza (90% completed, GPA of 8.6).
+🎓 Graduated in Web Development from the National University of La Matanza (GPA: 8.6).
 
 💻 Skilled in JavaScript, React, Node.js, Redux, Express.js, MongoDB, among other technologies.
 
